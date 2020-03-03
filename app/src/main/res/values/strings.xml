@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voice Calculator</string>
+    <string name="newline"><br> </br></string>
+    <string name="output">Output</string>
+    <string name="previous">Previous:</string>
+    <string name="answer">Answer:</string>
+    <string name="instructions">SUPPORTS:\t plus, minus, multiplied by, divided by, squared, cubed, square root, cube root\n"SUPPORTED KEYWORDS"\n"ANSWER":\t use number in the answer field.\n"PREVIOUS":\t use number in the previous field\n"OPEN":\t for open parentheses\n"CLOSE":\t for close parentheses\n"CLEAR":\t to clear all output fields</string>
+</resources>
